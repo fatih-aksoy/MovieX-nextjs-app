@@ -1,3 +1,5 @@
+Link:https://moviex-next-js.netlify.app/register
+
 # TailwindCSS ve Kurulum
 
 Tailwind CSS temel tüm css özelliklerini ön tanımlı ve konfigüre edilebilir şekilde sunan, tekrar eden css kullanımlarını engelleyen, html kodunuzdan ayrılmadan hızlı, ölçeklendirilebilir ve modern web arayüzleri oluşturabileğiniz utility-first CSS framework'üdür.
